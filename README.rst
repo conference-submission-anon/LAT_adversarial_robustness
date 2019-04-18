@@ -31,7 +31,7 @@ Running the code
 
 
 
-.. figure:: cifar_LA_adversarial_examples/0_5.png
+.. figure:: cifar_LA_adversarial_examples/0_5.jpg
 	:figwidth: 1cm
 	:scale: 20 %
 	:alt: map to buried treasure
