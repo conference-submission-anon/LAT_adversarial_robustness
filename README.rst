@@ -31,9 +31,9 @@ Running the code
 
 
 
-.. image:: https://github.com/conference-submission-anon/LAT_adversarial_robustness/tree/master/cifar_LA_images_8_eps/index10orig5.png
+.. image:: cifar_LA_images_8_eps/index10orig5.png
 	:width: 400
-	
+
 
 .. image:: https://github.com/conference-submission-anon/LAT_adversarial_robustness/tree/master/cifar_LA_images_8_eps/index10adv3.png
 
