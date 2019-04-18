@@ -32,23 +32,15 @@ Running the code
 
 
 .. image:: cifar_LA_images_8_eps/index10orig5.png
-	:max-height: 50px
-	:max-width: 50 px
-	:scale: 20 %
+	:max-height: 50%
+	:max-width: 50%
 	:alt: alternate text
 	:align: left
 
 
 .. image:: cifar_LA_images_8_eps/index10adv3.png
-	:height: 50px
-	:width: 50 px
-	:scale: 20 %
+	:max-height: 50%
+	:max-width: 50%
 	:alt: alternate text
-	:align: center
+	:align: left
 
-.. image:: cifar_LA_images_8_eps/index10adv3.png
-	:height: 50px
-	:width: 50 px
-	:scale: 20 %
-	:alt: alternate text
-	:align: right
