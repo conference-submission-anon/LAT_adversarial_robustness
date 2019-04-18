@@ -12,17 +12,21 @@ Running the code
 
 **Fetching Adversarial Trained Model**
 
+
 .. code-block:: bash
+
 	python fetch_model.py
 
 **Training via LAT**
 
 .. code-block:: bash
+
 	python feature_adv_training_layer11.py
 
 **Latent Attack** 
 
 .. code-block:: bash
+
 	python latent_adversarial_attack.py
 
 
