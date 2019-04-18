@@ -1,0 +1,28 @@
+{
+  "_comment": "===== MODEL CONFIGURATION =====",
+  "model_dir": "models/adv_trained",
+  "new_model_dir": "models/feature_adv2",
+
+  "_comment": "===== DATASET CONFIGURATION =====",
+  "data_path": "cifar10_data",
+
+  "_comment": "===== EVAL CONFIGURATION =====",
+  "num_eval_examples": 10000,
+  "eval_batch_size": 200,
+  "total_test_size": 10000,
+  "eval_on_cpu": false,
+
+  "_comment": "=====ADVERSARIAL EXAMPLES CONFIGURATION=====",
+  "layer_to_attack": 1,
+  "epsilon": 8.0,
+  "eps_l2" : 150,
+  "l2_activate" : false,
+  "a": 0.5,
+  "random_start": true,
+  "loss_func": "xent",
+  "store_adv_path": "lat_adv_examples",
+  "a_latent": 0.01,
+  "k_latent_h":10,
+  "k_latent_x":40,
+  "k_joint_iter":15
+}
