@@ -32,7 +32,7 @@ Running the code
 
 
 .. figure:: cifar_LA_images_8_eps/index10orig5.png
-	:figwidth: 5cm
+	:figwidth: 1cm
 	:scale: 20 %
 	:alt: map to buried treasure
 	:align: left
