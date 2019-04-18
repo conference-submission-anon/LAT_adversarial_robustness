@@ -1,7 +1,6 @@
 
-=======
-LAT_adversarial_robustness
-=======
+# LAT adversarial_robustness
+
 
 A fine tuning technique over the adversarially trained models to increase further robustness
 
@@ -22,6 +21,7 @@ python feature_adv_training_layer11.py
 ```
 python latent_adversarial_attack.py
 
+```
 .left[
 
 ![My image](https://github.com/conference-submission-anon/LAT_adversarial_robustness/cifar_LA_images_8_eps/index10orig5.png)
@@ -45,4 +45,4 @@ Cat
 .. image:: https://github.com/conference-submission-anon/LAT_adversarial_robustness/cifar_LA_images_8_eps/index10orig5.png
 .. image:: https://github.com/conference-submission-anon/LAT_adversarial_robustness/cifar_LA_images_8_eps/index10adv3.png
 
-```
+
