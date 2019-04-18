@@ -32,10 +32,10 @@ Running the code
 
 
 .. image:: cifar_LA_images_8_eps/index10orig5.png
-	:width: 100
+	:width: 20%
 
 
 .. image:: cifar_LA_images_8_eps/index10adv3.png
-	:width: 100
+	:width: 20%
 
 
