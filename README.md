@@ -22,9 +22,12 @@ python feature_adv_training_layer11.py
 python latent_adversarial_attack.py
 
 ```
+
+![Alt text](https://github.com/conference-submission-anon/LAT_adversarial_robustness/tree/master/cifar_LA_images_8_eps/index10orig5.png)
+
 .left[
 
-![My image](https://github.com/conference-submission-anon/LAT_adversarial_robustness/cifar_LA_images_8_eps/index10orig5.png)
+![Alt text](https://github.com/conference-submission-anon/LAT_adversarial_robustness/cifar_LA_images_8_eps/index10orig5.png)
 
 .caption[
 Dog
@@ -33,7 +36,7 @@ Dog
 ]
 right[
 
-![My image](https://github.com/conference-submission-anon/LAT_adversarial_robustness/cifar_LA_images_8_eps/index10adv3.png)
+![Alt text](https://github.com/conference-submission-anon/LAT_adversarial_robustness/cifar_LA_images_8_eps/index10adv3.png)
 
 .caption[
 Cat
