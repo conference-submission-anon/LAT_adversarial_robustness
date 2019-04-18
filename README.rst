@@ -8,22 +8,22 @@ A fine tuning technique over the adversarially trained models to increase furthe
 
 Running the code
 ------------
-Dataset: CIFAR10
+**Dataset**: CIFAR10
 
-Fetching Model
-
-.. code-block:: bash
-python fetch_model.py
-
-Training via LAT
+**Fetching Adversarial Trained Model**
 
 .. code-block:: bash
-python feature_adv_training_layer11.py
+	python fetch_model.py
 
-Latent Attack 
+**Training via LAT**
 
 .. code-block:: bash
-python latent_adversarial_attack.py
+	python feature_adv_training_layer11.py
+
+**Latent Attack** 
+
+.. code-block:: bash
+	python latent_adversarial_attack.py
 
 
 .. image:: https://github.com/conference-submission-anon/LAT_adversarial_robustness/cifar_LA_images_8_eps/index10orig5.png
