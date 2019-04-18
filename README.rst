@@ -32,18 +32,23 @@ Running the code
 
 
 .. image:: cifar_LA_images_8_eps/index10orig5.png
-	:height: 100px
-	:width: 100 px
+	:height: 50px
+	:width: 50 px
 	:scale: 20 %
 	:alt: alternate text
-	:align: right
+	:align: left
 
 
 .. image:: cifar_LA_images_8_eps/index10adv3.png
-	:height: 100px
-	:width: 100 px
+	:height: 50px
+	:width: 50 px
+	:scale: 20 %
+	:alt: alternate text
+	:align: center
+
+.. image:: cifar_LA_images_8_eps/index10adv3.png
+	:height: 50px
+	:width: 50 px
 	:scale: 20 %
 	:alt: alternate text
 	:align: right
-
-
