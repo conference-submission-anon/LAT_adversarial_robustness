@@ -31,6 +31,11 @@ Running the code
 
 
 
+.. figure:: cifar_LA_images_8_eps/index10orig5.png
+	:scale: 50 %
+	:alt: map to buried treasure
+
+
 .. image:: cifar_LA_images_8_eps/index10orig5.png
 	:height: 50%
 	:width: 50%
