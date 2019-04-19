@@ -29,6 +29,6 @@ Running the code
 
 	python latent_adversarial_attack.py
 
-
+Example Adversarial Images
 
 .. figure:: cifar10_LA.png
