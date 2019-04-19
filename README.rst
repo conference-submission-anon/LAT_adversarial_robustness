@@ -31,4 +31,4 @@ Running the code
 
 
 
-.. figure:: cifar10_LA.jpg
+.. figure:: cifar10_LA.png
