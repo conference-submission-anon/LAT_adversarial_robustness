@@ -32,3 +32,9 @@ Running the code
 Example original and adversarial images computed via Latent Attack on CIFAR10
 
 .. figure:: cifar10_LA.png
+
+
+Example original and adversarial images computed via Latent Attack on Restricted Imagenet(`https://arxiv.org/pdf/1805.12152.pdf 
+<https://arxiv.org/pdf/1805.12152.pdf>`_.
+
+.. figure:: imagenet_adv_LA.png
