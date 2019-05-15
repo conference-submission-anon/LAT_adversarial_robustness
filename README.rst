@@ -10,6 +10,10 @@ Running the code
 ------------
 **Dataset**: CIFAR10
 
+**Fetching LAT robust model**
+
+The model can be downloaded from this link - `https://drive.google.com/open?id=1um2zoVYYw5YZuuV8_IeoUy-qRWSmCVUb>` .
+
 **Fetching Adversarial Trained Model**
 
 
