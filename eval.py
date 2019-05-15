@@ -121,8 +121,8 @@ def evaluate_checkpoint(filename):
 
 # Infinite eval loop
 while True:
-  cur_checkpoint = tf.train.latest_checkpoint(model_dir)
-  # cur_checkpoint = './models/feature_random/checkpoint-2000'
+  # cur_checkpoint = tf.train.latest_checkpoint(model_dir)
+  cur_checkpoint = 'feature_adv11/checkpoint-1000'
   print(cur_checkpoint)
   # Case 1: No checkpoint yet
   if cur_checkpoint is None:
