@@ -14,6 +14,13 @@ Running the code
 
 The model can be downloaded from this link - `https://drive.google.com/open?id=1um2zoVYYw5YZuuV8_IeoUy-qRWSmCVUb>` .
 
+**Evaluating the LAT robust model**
+.. code-block:: bash
+
+	python eval.py
+
+The trained model achieves test accuracy of 87.8% and adversarial robustness of 53.82% against PGD attack(epsilon = 8.0/255.0)
+
 **Fetching Adversarial Trained Model**
 
 
